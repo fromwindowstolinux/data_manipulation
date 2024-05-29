@@ -1,3 +1,3 @@
-# Data Cleaning
+# Data Manipulation
 
-Identifying and correcting errors, inconsistencies, missing values, and outliers in the dataset.
+Adjusting, organizing, and restructuring data as well as making it more useful and easier to understand. 
